@@ -52,12 +52,12 @@ Gym Management System project features user authentication, slot scheduling, ava
 ## UI of the Website:
   Click on the image to watch it.
 
-| ![LoginPage](https://github.com/user-attachments/assets/f1c05d0a-d29e-4768-8f31-b0560cea067d) | ![RegistrationPage](https://github.com/user-attachments/assets/d644e4a1-d613-4957-b04f-3b09aed6a3a8) |
+| ![Login Screen](https://github.com/user-attachments/assets/84f46029-939a-4fd6-8c09-24d888764403) | ![Registration Screen](https://github.com/user-attachments/assets/5297f68d-fb8d-4852-940c-f5d57b9b8682) |
 |-|-|
 | Login Page | Registration Page | 
 
 Admin Side:
-| ![AdminSideHomePage](https://github.com/user-attachments/assets/b65d4195-4525-490f-801b-5e0c067fe7df) | ![AddItem](https://github.com/user-attachments/assets/a808d285-7e4f-44a5-9b0e-ea0295b81bcd) |
+| ![Admin Home](https://github.com/user-attachments/assets/cbeb9b70-686e-4353-b88c-32a5030ef631) | ![Add Item Admin](https://github.com/user-attachments/assets/9a896734-5581-461b-b020-f9fb1f5b42be) |
 |-|-|
 | Home Page | Add GymItem | 
 | ![slotBookingbyAdmin](https://github.com/user-attachments/assets/24fdc6cf-28f9-445a-973b-6c500ea467f8) | ![ViewBooking](https://github.com/user-attachments/assets/e868ae24-1f05-48e5-84e7-d19442068896) |
