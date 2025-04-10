@@ -8,7 +8,7 @@
  ![Badge](https://img.shields.io/badge/-JS%20-blue)
 </div>
 
-<br />
+<br/>
 
 ## Tech Stack : 
 
