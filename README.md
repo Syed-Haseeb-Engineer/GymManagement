@@ -61,14 +61,18 @@ Admin Side:
 |:-:|
 | Home Page | 
 | ![4 Add Item Admin](https://github.com/user-attachments/assets/773546f2-291a-4167-9965-9300cae3b849) | ![5 Manage Item Admin](https://github.com/user-attachments/assets/2778c5ee-c1db-40d5-a265-e36c4ef92cda) |
+|-|-|
 | Add Item | Manage Item | 
 | ![6 Add slot](https://github.com/user-attachments/assets/e4d4ac3b-bd1e-42f7-a9d8-6be54ec9e995) | ![7 Manage slot](https://github.com/user-attachments/assets/5420c0be-be8e-4a83-853c-18ce61d11ba6) |
+|-|-|
 | Add Slot | Manage Slot | 
 | ![8 Book slot by admin](https://github.com/user-attachments/assets/a4eabc81-bfe4-48d6-8dc6-e97ed0d1b112) | ![9 View Booking](https://github.com/user-attachments/assets/604efcec-1fe1-4f2e-a7b9-62464f6f272a) |
 | Book Slot By Admin | View Booking | 
 | ![10 View empty slot](https://github.com/user-attachments/assets/19df916c-663b-4dd8-a223-9ae4834d79de) | ![11 View Book slot](https://github.com/user-attachments/assets/a990819b-3804-4bd6-8c9e-207e20125a9f) |
+|-|-|
 | View Empty Slot | View Booked Slot | 
 | ![12 Users info](https://github.com/user-attachments/assets/b455e3b9-683f-4ad7-91fc-bff7d5034f54) | ![13 Feedback Admin](https://github.com/user-attachments/assets/a3bf8dba-7a50-47af-8bbb-7a706f65d721) |
+|-|-|
 | Users Info | Users Feedbacks | 
 </br>
 
