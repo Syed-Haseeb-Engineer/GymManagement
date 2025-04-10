@@ -14,7 +14,7 @@
 
 - **Frontend:** CSS, JavaScript, JSP
 - **Backend:** Java, Spring Boot, Spring Framework, Spring Data JPA, Spring Security
-- **Database:** MySQL, HQL 
+- **Database:** MySQL 
 - **Build Tool:** Maven
 - **Code Editor and tools:** VScode
 - **Server:** Tomcat
@@ -61,6 +61,7 @@ Admin Side:
 |:-:|
 | Home Page | 
 <br/>
+other images
 | ![4 Add Item Admin](https://github.com/user-attachments/assets/773546f2-291a-4167-9965-9300cae3b849) | ![5 Manage Item Admin](https://github.com/user-attachments/assets/2778c5ee-c1db-40d5-a265-e36c4ef92cda) |
 |-|-|
 | Add Item | Manage Item | 
