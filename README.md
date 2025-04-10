@@ -60,9 +60,8 @@ Gym Management System project features user authentication, slot scheduling, ava
 | ![3 Admin Home](https://github.com/user-attachments/assets/32bf6759-3325-4313-8640-f8074a1656be) |
 |:-:|
 | **Home Page** | 
-</br>
-## Other Images
 | ![4 Add Item Admin](https://github.com/user-attachments/assets/773546f2-291a-4167-9965-9300cae3b849) | ![5 Manage Item Admin](https://github.com/user-attachments/assets/2778c5ee-c1db-40d5-a265-e36c4ef92cda) |
+|-|-|
 | **Add Item** | **Manage Item** | 
 | ![6 Add slot](https://github.com/user-attachments/assets/e4d4ac3b-bd1e-42f7-a9d8-6be54ec9e995) | ![7 Manage slot](https://github.com/user-attachments/assets/5420c0be-be8e-4a83-853c-18ce61d11ba6) |
 | **Add Slot** | **Manage Slot** | 
