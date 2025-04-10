@@ -60,6 +60,7 @@ Admin Side:
 | ![3 Admin Home](https://github.com/user-attachments/assets/32bf6759-3325-4313-8640-f8074a1656be) |
 |:-:|
 | Home Page | 
+<br\>
 | ![4 Add Item Admin](https://github.com/user-attachments/assets/773546f2-291a-4167-9965-9300cae3b849) | ![5 Manage Item Admin](https://github.com/user-attachments/assets/2778c5ee-c1db-40d5-a265-e36c4ef92cda) |
 |-|-|
 | Add Item | Manage Item | 
@@ -81,12 +82,9 @@ Member Side:
 |-|-|
 | Home Page | About Page | 
 | ![16 View slot by user](https://github.com/user-attachments/assets/8fcca3e6-780a-4a85-a685-1d36924b20ca) | ![17 book slot by user](https://github.com/user-attachments/assets/b965f56c-e2a9-411d-afbe-396af7ca7a05) |
-|-|-|
 | View Slot By Member | Slot Booking By Member |
 | ![18 View Booking](https://github.com/user-attachments/assets/4888f849-c40f-4e37-8de2-331c4bc32931) | ![19 Feedback](https://github.com/user-attachments/assets/dcaf57d7-704b-463f-b007-49f5163ade1e) |
-|-|-|
 | View Booking | Feedback Page |
 |![20 Contact us](https://github.com/user-attachments/assets/2a30055d-4b21-4716-a7f3-3203681309af) | ![21 Logout](https://github.com/user-attachments/assets/c1935896-6303-4328-89a5-ec597e72d64f) |
-|-|-|
 | Contact Us | Logout Screen |
 <br/>
